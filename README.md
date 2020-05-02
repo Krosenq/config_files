@@ -1,1 +1,3 @@
 # config_files
+
+## config files for i3, i3status etc...
